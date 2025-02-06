@@ -9,5 +9,6 @@ public class PollSCMTest {
 @Test
 public void scm() {
 	Reporter.log("poll scm class added",true);
+	Reporter.log("check",true);
 }
 }
